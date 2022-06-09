@@ -1,4 +1,4 @@
-Application/.terraform
-Application/.terraform.lock.hcl
-Network/.terraform
-Network/.terraform.lock.hcl
+Application/*.terraform
+Application/*.terraform.lock.hcl
+Network/*.terraform
+Network/*.terraform.lock.hcl
