@@ -14,4 +14,3 @@ This Repo helps you to learn about how to use Remote Terraform State File as a D
 **Step 6: Here is an example of the output block from the Terraform Network project whose outputs are accessed in the current Terraform Application project.**
 
 
-
